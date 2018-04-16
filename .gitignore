@@ -1,5 +1,4 @@
 cifar10/
 .ipynb_checkpoints
 .ipynb_checkpoints/
-*.pdf
 *.py
